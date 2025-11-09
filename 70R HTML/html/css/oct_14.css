@@ -1,0 +1,39 @@
+.main{
+    /* background-color: whitesmoke; */
+    color: white;
+    border:3px solid black;
+    background-image: url("https://tse3.mm.bing.net/th/id/OIP.uHd8RxDp_r1AZ7MGS65rgAHaEK?pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+img{
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+}
+
+.p1{
+    background-color: forestgreen;
+    height: 60px;
+    width: 300px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.p2{
+    background-color: palevioletred;
+    height: 100px;
+    width: 300px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+   }
+body{
+    background-repeat: no-repeat;
+    background-image: url("http://www.pixelstalk.net/wp-content/uploads/2016/07/Download-Free-Pictures-3840x2160.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+   
+}

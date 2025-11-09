@@ -1,0 +1,16 @@
+p{
+    background-color: blue;
+    color: beige;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+}
+img{
+    text-align: center;
+    width: 150px;
+    height: 150px;
+}
+section{
+    border: 2px solid yellow;
+    text-align: center;
+}

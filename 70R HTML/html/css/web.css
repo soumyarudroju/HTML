@@ -1,0 +1,11 @@
+#s1{
+    border: 1px ridge;
+    background-color: lightgreen;
+    border-radius: 10px;
+}
+
+#s2{
+    border: 1px ridge;
+    background-color: lightgray;
+    border-radius: 10px;
+}

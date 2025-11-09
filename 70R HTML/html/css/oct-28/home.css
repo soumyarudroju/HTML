@@ -1,0 +1,19 @@
+.img1{
+    background-image: url(//themewagon.github.io/Kelly/assets/img/hero-bg.jpg);
+    background-size: cover;
+    height: 800px;
+    width: 1500px;
+    border: 1px;
+    justify-content: center;
+    align-items: center;
+}
+.section1{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    gap: 10px;
+}
+h2{
+    /* margin-top: 50px; */
+    margin-bottom: -20px;
+}

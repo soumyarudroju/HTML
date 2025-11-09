@@ -1,0 +1,163 @@
+.li1{
+    /* margin-left: 70%; */
+    margin-top: -0.50%;
+}
+.li2{
+    margin-left: 70%;
+    margin-top: -1.50%;
+}
+.li3{
+    margin-left: 80%;
+    margin-top: -1.50%;
+}
+.li4{
+    margin-left: 90%;
+    margin-top: -1.20%;
+}
+div>h1{
+    border: 3px solid black;
+    width: 95px;
+    margin-left: 45%;
+    background-color: black;
+    color: white;
+}
+div>h3{
+    margin-top: -6%;
+    margin-left: 15%;
+}
+.img1{
+    background-image: url("https://www.xuntuu.com/sc/xt/2024/bj_20240505_198.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+    padding-top: 20%;
+    font-size: 30px;
+    text-align: center;
+}
+.pic1{
+    background-image: url("https://rationel.co.uk/wp-content/uploads/sites/2/2024/08/dommoore_24_dig_maker_lane_front.jpg");
+    background-size: cover;
+    height: 200px;
+    width: 25%;
+    margin-right: 100%;
+  
+}
+
+.pic2{
+    background-image:url("https://www.w3schools.com/w3images/house4.jpg") ;
+    background-size: cover;
+    height: 200px;
+    width:25% ;
+    margin-left: 35%;
+    margin-top: -15%;
+}
+.pic3{
+    background-image: url("https://www.w3schools.com/w3images/house2.jpg");
+    background-size: cover;
+    height: 205px;
+    width: 25%;
+    margin-left:70% ;
+    margin-top: -15%;
+}
+.pic4{
+    background-image: url("https://www.w3schools.com/w3images/house5.jpg");
+    background-size: cover;
+    height: 200px;
+    width: 25%;
+    margin-right: 100%;
+    margin-top: 5%;
+  
+}
+
+.pic5{
+    background-image:url("https://i.pinimg.com/736x/a1/65/46/a165462244b470979b857d920da73d22.jpg") ;
+    background-size: cover;
+    height: 200px;
+    width:25% ;
+    margin-left: 35%;
+    margin-top: -15%;
+}
+.pic6{
+    background-image: url("https://images.snaptrip.com/optim/image/file/39977836/normal_Wren-House-Cotswold-Country-Estate-Olivers-Travels-1.jpg");
+    background-size: cover;
+    height: 200px;
+    width: 25%;
+    margin-left:70% ;
+    margin-top: -15%;
+    margin-right: 100%;
+}
+.pic7{
+    background-image: url("https://www.w3schools.com/w3images/team2.jpg");
+    background-size: cover;
+    height: 210px;
+    width: 25%;
+    margin-right: 100%;
+}
+.pic8{
+    background-image: url("https://www.w3schools.com/w3images/team1.jpg");
+    background-size: cover;
+    height: 210px;
+    width: 25%;
+    margin-left: 35%;
+    margin-top: -14%;
+}
+.pic9{
+    background-image: url("https://www.w3schools.com/w3images/team3.jpg");
+    background-size: cover;
+    height: 200px;
+    width: 25%;
+    margin-left: 70%;
+    margin-top: -14%;
+}
+.p2{
+    margin-left: 35%;
+    margin-top: -1%;
+}
+.p3{
+    margin-left: 70%;
+    margin-top: -1%;
+}
+.p4{
+    /* margin-left: 35%; */
+    margin-top: -1%;
+}
+.p5{
+    margin-left: 35%;
+    margin-top: -1%;
+}
+.p6{
+    margin-left: 70%;
+    margin-top: -0.5%;
+}
+.p7{
+    /* margin-left: 35%; */
+    margin-top: -1%;
+}
+.p8{
+    margin-left: 35%;
+    margin-top: -3%
+}
+.p9{
+    margin-left: 70%;
+    margin-top: -3%;
+    
+}
+.p10{
+    /* margin-left: 100%; */
+    margin-top: -1%;
+}
+.p11{
+    margin-left: 35%;
+    margin-top: -1%;
+}
+.p12{
+    margin-left: 70%;
+    margin-top: -1%;
+}
+.img2{
+    background-image: url("https://www.w3schools.com/w3images/map.jpg");
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+}
